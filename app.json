@@ -1,6 +1,6 @@
-{ "name": "ForwardTagRemoverBot", 
+{ "name": "AnonymousFilesenderBot", 
  "description": " A Telegram Bot To Hide Forward Source",
- "repository": "https://github.com/Artis7eeR/ForwardTagRemoverBot",
+ "repository": "https://github.com/akhpp/AnonymousFilesenderBot",
  "logo": "https://telegra.ph/file/faacd4dd5b446769381f4.jpg",
  "keywords": [ "bot","BathRecords", "telegram", "BathRecords","BathRecords" ],
  "success_url": "https://telegram.dog/ChannelAutomation3_Bot",
