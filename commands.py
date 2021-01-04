@@ -16,16 +16,6 @@
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup,ParseMode
 from config import Config
 
-#Inline Keyboard Button
-keyboard = [
-[
- InlineKeyboardButton("Source Code", url=Config.SOURCE)
-],
-]
-
-#The Keyboard On Up👆
-reply_markup = InlineKeyboardMarkup(keyboard)
-
 #Send Start Message
 def startMessage(update,context):
  try:
